@@ -33,7 +33,3 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnolo
 - Git
 - Docker
 - REST APIs
-
-## Estadísticas
-
-![Github Stats](https://github-stats-extended.vercel.app/api?username=Gonh&theme=dark&show_icons=true&count_private=true)
