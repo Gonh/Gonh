@@ -23,11 +23,13 @@ Bienvenido a mi perfil de GitHub. Soy un desarrollador apasionado por la tecnolo
 - React
 - Vue.js
 - HTML/CSS
+- Javascript
 
 **Backend:**
 - Node.js
 - Express
-- Django
+- Php
+- Python
 
 **Otros:**
 - Git
